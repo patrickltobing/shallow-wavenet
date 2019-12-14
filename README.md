@@ -1,6 +1,5 @@
 # Shallow WaveNet Vocoder with Laplacian Distribution using Multiple Samples Output based on Linear Prediction / with Softmax Output
 
-----------------
 ## Install
 Environment
 
@@ -42,8 +41,7 @@ Logging of decoding will be stored in
 
     egs/shallow-wavenet/exp/decoding/<setting>/
 
-----
-##Usage
+## Usage
 open run.sh
 
     set stage=0 for initialize data list and speaker configs.
@@ -80,7 +78,6 @@ open run.sh
 
 set variables under "#  DECODING/FINE-TUNING SETTING" accordingly for STAGE 5 and 6 / 7 / 8 and 9
 
-----
 ## Links
 Please refer to wavenet\_trained\_example/egs/shallow-wavenet for example of script settings, speaker configs, trained model, logs, and/or synthesized waveforms
 within the following link:
@@ -93,7 +90,6 @@ within the following link:
 
 * [GitHub] (https://github.com/patrickltobing/shallow-wavenet)
 
-----
 ## Logging
 
 To summarize the training log for determining the possible optimum model, please edit 
@@ -129,7 +125,6 @@ To summarize the training log for determining the possible optimum model, please
 
 *all values should be lower for better*
 
-----
 ## References
 
 This system is based on the following papers:
@@ -140,7 +135,6 @@ This system is based on the following papers:
 
 Structures of the scripts are heavily influenced by a WaveNet implementation package in [https://github.com/kan-bayashi/PytorchWaveNetVocoder]
 
-----
 ##
 
 For further information/troubleshooting, please inquire to:
