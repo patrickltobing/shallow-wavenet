@@ -129,9 +129,9 @@ To summarize the training log for determining the possible optimum model, please
 
 This system is based on the following papers:
 
-1. P. L. Tobing, T. Hayashi, and T. Toda, "Investigation of Shallow WaveNet Vocoder with Laplacian Distribution Output", in Proc. IEEE ASRU, Sentosa, Singapore, Dec. 2019. (Accepted)
+1. P. L. Tobing, T. Hayashi, and T. Toda, "Investigation of Shallow WaveNet Vocoder with Laplacian Distribution Output", in Proc. IEEE ASRU, Sentosa, Singapore, Dec. 2019, pp. 176--183.
 
-2. P. L. Tobing, Y.-C. Wu, T. Hayashi, K. Kobayashi, and T. Toda, "Efficient Shallow WaveNet Vocoder using Multiple Samples Output based on Laplacian Distribution and Linear Prediction", submitted to ICASSP 2020.
+2. P. L. Tobing, Y.-C. Wu, T. Hayashi, K. Kobayashi, and T. Toda, "Efficient Shallow WaveNet Vocoder using Multiple Samples Output based on Laplacian Distribution and Linear Prediction", Accepted for ICASSP 2020.
 
 Structures of the scripts are heavily influenced by a WaveNet implementation package in [https://github.com/kan-bayashi/PytorchWaveNetVocoder]
 
